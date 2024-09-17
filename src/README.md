@@ -28,6 +28,7 @@ Users should be able to:
 - See the number of contacts dynamically updated
 
 ### Screenshot
+![image](https://github.com/user-attachments/assets/46c996d0-aea1-4dbc-9397-e62d136fa9fc)
 
 ## My process
 
